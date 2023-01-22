@@ -1,6 +1,6 @@
+using DelimitedFiles
 using Test
 using ItuRPropagations
-using Random
 
 struct TestData
     testinput
