@@ -8,7 +8,7 @@ add ItuRPropagations
 ```
 Alternatively, you can add it directly from the GitHub repository link by going to the package manager and using
 ```
-add https://github.com/HillaryKchao/ItuRPropagations
+add https://github.com/HillaryKchao/ItuRPropagations.jl
 ```
 You can check if installation was successful by exiting the package manager and using
 ```
