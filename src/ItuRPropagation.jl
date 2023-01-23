@@ -1,4 +1,4 @@
-module ItuRPropagations
+module ItuRPropagation
 
 export attenuations
 export downlinkparameters
