@@ -1,4 +1,4 @@
-module ItuRPropagations
+module ItuRPropagation
 
 export attenuations
 export downlinkparameters
@@ -205,4 +205,4 @@ function linkparameters(
     return (Ac=Ac, Ag=Ag, Ar=Ar, Asuplink=Asuplink, Asdownlink=Asdownlink, Atuplink=Atuplink, Atdownlink=Atdownlink, Tearth=Tearth, Tsky=Tsky, XPD=XPD)
 end
 
-end # module ItuRPropagations
+end # module ItuRPropagation

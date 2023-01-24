@@ -5,7 +5,7 @@ Recommendation ITU-R P.838-3 recommends the procedure for obtaining the
  specfic attenuation (gamma sub R in dB/km) from the rain rate R (mm/h).
 =#
 
-using ItuRPropagations
+using ItuRPropagation
 
 version = ItuRVersion("ITU-R", "P.838", 8, "03/2005")
 

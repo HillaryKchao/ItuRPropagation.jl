@@ -4,7 +4,7 @@ module ItuRP839
 This Recommendation provides a method to predict the rain height for propagation prediction.
 =#
 
-using ItuRPropagations
+using ItuRPropagation
 
 version = ItuRVersion("ITU-R", "P.839", 4, "(09/2013)")
 

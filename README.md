@@ -4,15 +4,15 @@ A Julia implementation of the ITU-Recommendations for space links covering cloud
 ## Installation
 Using the Julia REPL and going to the package manager, you can install this implementation using
 ```
-add ItuRPropagations
+add ItuRPropagation
 ```
 Alternatively, you can add it directly from the GitHub repository link by going to the package manager and using
 ```
-add https://github.com/HillaryKchao/ItuRPropagations.jl
+add https://github.com/HillaryKchao/ItuRPropagation.jl
 ```
 You can check if installation was successful by exiting the package manager and using
 ```
-using ItuRPropagations
+using ItuRPropagation
 ```
 
 ## ITU-R Recommendations

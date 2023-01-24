@@ -18,7 +18,7 @@ d) a Weibull approximation to the slant path water vapour attenuation for use in
     Recommendation ITU-R P.1853.
 =#
 
-using ItuRPropagations
+using ItuRPropagation
 
 version = ItuRVersion("ITU-R", "P.676", 13, "(08/2022)")
 

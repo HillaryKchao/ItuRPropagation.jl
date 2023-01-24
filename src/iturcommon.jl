@@ -5,7 +5,7 @@ export EnumHeightAndIndex, EnumIndexOnly
 export EnumHorizontalPolarization, EnumVerticalPolarization, EnumCircularPolarization
 export ItuRVersion
 
-export ItuRPropagations
+export ItuRPropagation
 
 struct LatLon
     lat::Real

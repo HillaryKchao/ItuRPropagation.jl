@@ -15,7 +15,7 @@ When reliable long-term local rainfall rate data is available with integration t
  times that exceed 1-min to rainfall rate statistics with a 1-min integration time.
 =#
 
-using ItuRPropagations
+using ItuRPropagation
 
 version = ItuRVersion("ITU-R", "P.837", 7, "(06/2017)")
 

@@ -7,7 +7,7 @@ Recommendation ITU-R P.453 provides methods to estimate the radio refractive ind
  parameters and their statistical variation.
 =#
 
-using ItuRPropagations
+using ItuRPropagation
 
 version = ItuRVersion("ITU-R", "P.453", 14, "(08/2019)")
 
