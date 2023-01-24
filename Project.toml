@@ -1,5 +1,5 @@
 name = "ItuRPropagations"
-uuid = "27e0793c-dcf3-4b51-9682-e1c9838db8f8"
+uuid = "a73e506c-35e8-47b2-857c-dfce7ead1349"
 authors = ["Hillary Kchao <hillary.kchao@gmail.com>"]
 repo = "https://github.com/HillaryKchao/ItuRPropagation.jl"
 version = "0.1.1"
