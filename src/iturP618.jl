@@ -5,7 +5,7 @@ This Recommendation predicts the various propagation parameters needed in planni
 systems operating in either the Earth-to-space or space-to-Earth direction.
 =#
 
-using ItuRPropagations
+using ItuRPropagation
 
 version = ItuRVersion("ITU-R", "P.618", 13, "(12/2017)")
 
