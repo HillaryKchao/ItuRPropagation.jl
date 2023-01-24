@@ -5,7 +5,7 @@ This Recommendation provides global topographical data, information on geographi
 height data for the prediction of propagation effects for Earth-space paths in ITU-R recommendations.
 =#
 
-using ItuRPropagations
+using ItuRPropagation
 
 version = ItuRVersion("ITU-R", "P.1511", 2, "(08/2019)")
 
