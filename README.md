@@ -40,4 +40,4 @@ The following ITU-R Recommendations are implemented:
 *   **ITU-R P.2145-0:** Digital maps related to the calculation of gaseous attenuation and related effects
 
 ##  Validation
-This implementation has been validated using the [ITU Validation examples (rev 7.0.4)](https://www.itu.int/en/ITU-R/study-groups/rsg3/ionotropospheric/CG-3M3J-13-ValEx-Rev7.0.4.xlsx).
+This implementation has been validated using the [ITU Validation examples (rev 7.0.5)](https://www.itu.int/en/ITU-R/study-groups/rsg3/ionotropospheric/CG-3M3J-13-ValEx-Rev7.0.5.xlsx).
